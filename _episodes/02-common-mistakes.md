@@ -186,7 +186,7 @@ that are excessively long. Including the units in the field names avoids confusi
 	<td> 18years</td>
 </tr>
 </table>
-
+¬
 ## <a name="special"></a> Using special characters in data
 
 **Example**: You treat your spreadsheet program as a word processor when writing notes, for example copying data directly from Word or
